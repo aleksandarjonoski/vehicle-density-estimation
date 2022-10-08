@@ -1,4 +1,4 @@
-# Opencv vehicle traffic stimation
+# Opencv vehicle traffic density estimation
 
 Install environment
 * Linux: 
